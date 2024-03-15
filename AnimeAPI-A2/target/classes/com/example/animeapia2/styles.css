@@ -1,0 +1,30 @@
+.root {
+    -fx-background-image: url("images/search-bg.png");
+    -fx-background-size: cover;
+}
+
+#backButton {
+    -fx-background-color: #44d95e;
+    -fx-text-fill: white;
+}
+
+#gridPane, #imageContainer {
+    -fx-background-color: #f5dbff;
+}
+
+#synopsisArea {
+    -fx-control-inner-background: #ffe5e5;
+}
+
+.list-cell {
+    -fx-background-color: #edc1ff;
+}
+.list-cell:hover {
+    -fx-background-color: #ffffff;
+}
+.list-cell:selected {
+    -fx-background-color: #cf60fa;
+}
+
+
+
